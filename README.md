@@ -1,17 +1,12 @@
-# vCard - Personal portfolio
+# Gayatri - Personal portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+Portfolio is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
-
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+<img width="1179" alt="Screenshot 2023-09-29 at 10 58 22 PM" src="https://github.com/gayatribandaru/Gayatri-personal-portfolio/assets/59916012/b58cfe68-4d22-48a3-b617-e8cc32e454fd">
+<img width="1187" alt="Screenshot 2023-09-29 at 10 58 39 PM" src="https://github.com/gayatribandaru/Gayatri-personal-portfolio/assets/59916012/ff0474da-e8ee-41f1-b8b9-e687c7772086">
+<img width="1044" alt="Screenshot 2023-09-29 at 11 00 09 PM" src="https://github.com/gayatribandaru/Gayatri-personal-portfolio/assets/59916012/bdd23d76-8c1e-461c-a067-50df9d0c53a0">
 
 ## Prerequisites
 
@@ -26,18 +21,15 @@ To install **vCard**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+sudo git clone https://github.com/codewithsadee/gayatri-personal-portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone https://github.com/codewithsadee/gayatri-personal-portfolio.git
 ```
 
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ## License
 
